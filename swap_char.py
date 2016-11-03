@@ -8,4 +8,4 @@ def swap_char(sentance):
                 sentance[i] =  chr(ord(sentance[i])-32)
     return ''.join(sentance)
 
-print swap_char("Tauwab")
+print swap_char("HeLlo")
