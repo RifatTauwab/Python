@@ -1,3 +1,4 @@
+#time complexity O(nlogn)
 def mergesort(num,low,high):
     if (low == high):
         return
